@@ -65,12 +65,13 @@ Resulting signature (Base64):
 Signing tool link: [EMN178 Sign Tool](https://emn178.github.io/online-tools/ecdsa/sign/?input=Hello%20Blockchain!&input_type=utf-8&output_type=base64&curve=secp256k1&algorithm=SHA256&private_key_input_type=pem_text&private_key=-----BEGIN%20EC%20PRIVATE%20KEY-----%0AMHQCAQEEIN7u0QCOxeA%2FzDe%2FpHrV2JloDBcYIFCkPf8RRvqvAbrFoAcGBSuBBAAK%0AoUQDQgAEl7lLzXSrIwBgVGPE%2F35P4aU31gzSBFEavD6bFoqQZIBbHqcp9m7tdrSB%0AZGacU2zDjwuJrTuihbrMw11hqk0EGA%3D%3D%0A-----END%20EC%20PRIVATE%20KEY-----)
 
 ### Signature Verification
-The signature was verified with the corresponding public key and the same curve or hash settings.
+The signature was verified with the corresponding public key and the same curve.
 
 - Verification link: [EMN178 Verify](https://emn178.github.io/online-tools/ecdsa/verify/?input=Hello%20Blockchain!&input_type=utf-8&curve=secp256k1&algorithm=SHA256&public_key_input_type=pem_text&public_key=-----BEGIN%20PUBLIC%20KEY-----%0AMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEl7lLzXSrIwBgVGPE%2F35P4aU31gzSBFEa%0AvD6bFoqQZIBbHqcp9m7tdrSBZGacU2zDjwuJrTuihbrMw11hqk0EGA%3D%3D%0A-----END%20PUBLIC%20KEY-----&signature_input_type=base64&signature=MEUCIQDeJBB0ZJDGS2WmBrPNUAwC%2FbncD5xB8GvPrluDNY%2F%2FigIgcoKn8o8jcICfx2EYEgppuBgWTs15%2BRL%2FnIswedmzkAA%3D)
 - Result: Verification succeeded, confirming the signature's authenticity.
 
 ![Verification succeeded](images/iamge_2.png)
+
 
 
 

@@ -24,7 +24,7 @@ The second candidate matches the provided SHA-256 hash (`f28fe5...`), so it is t
 ## 2. AES-CBC Decryption of the Message
 CyberChef was used to decrypt the provided ciphertext with AES-128 in CBC mode.
 
-- Ciphertext (hex): `876b4e970c3516f333bcf5f16d546a87aaeea5588ead29d213557efc1903997e`
+- AES encrypted message (hex): `876b4e970c3516f333bcf5f16d546a87aaeea5588ead29d213557efc1903997e`
 - Initialization vector (hex): `656e6372797074696f6e496e74566563`
 - Key (hex): `54684020247570407220244063724074`
 - Workflow link: [AES decrypt -> From Hex](https://gchq.github.io/CyberChef/#recipe=AES_Decrypt(%7B'option':'Hex','string':'54684020247570407220244063724074'%7D,%7B'option':'Hex','string':'656e6372797074696f6e496e74566563'%7D,'CBC','Hex','Hex',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)From_Hex('None')&input=ODc2YjRlOTcwYzM1MTZmMzMzYmNmNWYxNmQ1NDZhODdhYWVlYTU1ODhlYWQyOWQyMTM1NTdlZmMxOTAzOTk3ZQ&oeol=FF)

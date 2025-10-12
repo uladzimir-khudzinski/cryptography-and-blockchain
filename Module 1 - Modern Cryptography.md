@@ -60,7 +60,7 @@ vD6bFoqQZIBbHqcp9m7tdrSBZGacU2zDjwuJrTuihbrMw11hqk0EGA==
 ### Signing the Plaintext
 The plaintext message `Hello Blockchain!` was signed with SHA-256 as the hash function.  
 Resulting signature (Base64):  
-`MEUCIQDeJBB0ZJDGS2WmBrPNUAwC/bncD5xB8GvPrluDNY/igIgcoKn8o8jcICfx2EYEgppuBgWTs15+RL/nIswedmzkAA=`
+`MEUCIQDeJBB0ZJDGS2WmBrPNUAwC/bncD5xB8GvPrluDNY//igIgcoKn8o8jcICfx2EYEgppuBgWTs15+RL/nIswedmzkAA=`
 
 Signing tool link: [EMN178 Sign Tool](https://emn178.github.io/online-tools/ecdsa/sign/?input=Hello%20Blockchain!&input_type=utf-8&output_type=base64&curve=secp256k1&algorithm=SHA256&private_key_input_type=pem_text&private_key=-----BEGIN%20EC%20PRIVATE%20KEY-----%0AMHQCAQEEIN7u0QCOxeA%2FzDe%2FpHrV2JloDBcYIFCkPf8RRvqvAbrFoAcGBSuBBAAK%0AoUQDQgAEl7lLzXSrIwBgVGPE%2F35P4aU31gzSBFEavD6bFoqQZIBbHqcp9m7tdrSB%0AZGacU2zDjwuJrTuihbrMw11hqk0EGA%3D%3D%0A-----END%20EC%20PRIVATE%20KEY-----)
 
@@ -71,6 +71,7 @@ The signature was verified with the corresponding public key and the same curve.
 - Result: Verification succeeded, confirming the signature's authenticity.
 
 ![Verification succeeded](images/iamge_2.png)
+
 
 
 

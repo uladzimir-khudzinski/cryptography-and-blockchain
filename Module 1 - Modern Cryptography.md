@@ -35,7 +35,7 @@ CyberChef was used to decrypt the provided ciphertext with AES-128 in CBC mode.
 1. Loaded each of the three candidate keys into CyberChef, converted from Hex to Bytes, and calculated SHA-256 to compare against the provided digest `f28fe539655fd6f7275a09b7c3508a3f81573fc42827ce34ddf1ec8d5c2421c3`. Only `54684020247570407220244063724074` produced the matching hash, confirming it as the transmitted 128-bit key.
 2. Used the confirmed key together with the supplied IV in CyberChef's AES-CBC decrypt workflow, fed in the ciphertext, and converted the output from Hex to UTF-8, revealing the plaintext `Hello Blockchain!`.
 
-The correct plaintext confirms that both the key and IV were identified accurately.
+![Hello Blockchain!](images/image_1.png)
 
 ## 3. ECDSA Key Pair, Signature, and Verification
 
@@ -69,6 +69,9 @@ The signature was verified with the corresponding public key and the same curve 
 
 - Verification link: [EMN178 Verify](https://emn178.github.io/online-tools/ecdsa/verify/?input=Hello%20Blockchain!&input_type=utf-8&curve=secp256k1&algorithm=SHA256&public_key_input_type=pem_text&public_key=-----BEGIN%20PUBLIC%20KEY-----%0AMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEl7lLzXSrIwBgVGPE%2F35P4aU31gzSBFEa%0AvD6bFoqQZIBbHqcp9m7tdrSBZGacU2zDjwuJrTuihbrMw11hqk0EGA%3D%3D%0A-----END%20PUBLIC%20KEY-----&signature_input_type=base64&signature=MEUCIQDeJBB0ZJDGS2WmBrPNUAwC%2FbncD5xB8GvPrluDNY%2F%2FigIgcoKn8o8jcICfx2EYEgppuBgWTs15%2BRL%2FnIswedmzkAA%3D)
 - Result: Verification succeeded, confirming the signature's authenticity.
+
+![Verification succeeded](images/image_2.png)
+
 
 
 

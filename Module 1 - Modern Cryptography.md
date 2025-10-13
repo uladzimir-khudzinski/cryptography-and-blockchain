@@ -3,7 +3,13 @@
 ## Expected Results
 - Correct symmetric key (hex): `54684020247570407220244063724074` (`Th@ $up@r $@cr@t`)
 - Decrypted plaintext: `Hello Blockchain!`
-- Asymmetric public key: see PEM block under **Key Pair Generation**
+- Asymmetric public key:
+```pem
+-----BEGIN PUBLIC KEY-----
+MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEl7lLzXSrIwBgVGPE/35P4aU31gzSBFEa
+vD6bFoqQZIBbHqcp9m7tdrSBZGacU2zDjwuJrTuihbrMw11hqk0EGA==
+-----END PUBLIC KEY-----
+```
 - Digital signature (Base64): `MEUCIQDeJBB0ZJDGS2WmBrPNUAwC/bncD5xB8GvPrluDNY//igIgcoKn8o8jcICfx2EYEgppuBgWTs15+RL/nIswedmzkAA=`
 
 ## Tools
@@ -71,6 +77,7 @@ The signature was verified with the corresponding public key and the same curve.
 - Result: Verification succeeded, confirming the signature's authenticity.
 
 ![Verification succeeded](images/iamge_2.png)
+
 
 
 

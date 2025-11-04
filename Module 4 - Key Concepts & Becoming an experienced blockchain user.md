@@ -49,8 +49,7 @@ CORE price ≈ $0.21
 Gas price ≈ 100 Gwei  
 tCORE2 price ≈ $0.21
 
-<img src="images/m4_9.png" alt="m4_3" width="<img src="images/m4_10.png" alt="m4_3" width="500">
-">
+<img src="images/m4_9.png" alt="m4_3" width="500">
 
 
 **Failed Transaction (0 Gas):**  

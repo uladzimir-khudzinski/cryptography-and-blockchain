@@ -2,7 +2,7 @@
 
 <img src="images/m4_1.png" alt="m4_1" width="1000">
 
-## Wallet
+## 1. Wallet
 **Main Address:**  
 `0x8047e80af5c5b757d606205364bbbf8c679d4394` 
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Chains
+## 2. Chains
 **Explorer Links:**  
 - [Core Blockchain Mainnet](https://scan.coredao.org/)  
 - [Core Blockchain Testnet2](https://scan.test2.btcs.network/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Transactions
+## 3. Transactions
 **Transaction :**  
 [https://scan.test2.btcs.network/tx/0x09ce5bf48023c2cc0a5589373ae23f6c2466db5533147fb3a3e5d2794a36304d](https://scan.test2.btcs.network/tx/0x09ce5bf48023c2cc0a5589373ae23f6c2466db5533147fb3a3e5d2794a36304d)
 
@@ -35,7 +35,7 @@
 
 ---
 
-## Gas
+## 4. Gas
 **Mainnet Gas Tracker:**  
 [https://scan.coredao.org](https://scan.coredao.org/)  
 Gas price ≈ 60 Gwei  
@@ -63,7 +63,7 @@ tCORE2 price ≈ $0.21
 
 ---
 
-## Nonce
+## 5. Nonce
 **Transaction with wrong nonce (stuck pending):**  
 [https://scan.test2.btcs.network/tx/0x2e754a5c1c0cd751cc3ee681a1b6e8bae5dc1f18f4fa2af76d6da7dd031e6327](https://scan.test2.btcs.network/tx/0x2e754a5c1c0cd751cc3ee681a1b6e8bae5dc1f18f4fa2af76d6da7dd031e6327)
 

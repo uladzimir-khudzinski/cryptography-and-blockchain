@@ -1,6 +1,6 @@
 # Assignment 3 – Blockchain & Metamask
 
-<img src="images/m4_1.png" alt="m4_1" width="700">
+<img src="images/m4_1.png" alt="m4_1" width="1000">
 
 ## Wallet
 **Main Address:**  
@@ -22,7 +22,7 @@
 **Incoming Transaction:**  
 [https://scan.test2.btcs.network/tx/0xb75336a7fe745eb872b15e7125a499c416f553a513c5625fa54cfc512d93aa5b](https://scan.test2.btcs.network/tx/0xb75336a7fe745eb872b15e7125a499c416f553a513c5625fa54cfc512d93aa5b)
 
-<img src="images/m4_3.png" alt="m4_3" width="500">
+<img src="images/m4_3.png" alt="m4_3" width="1000">
 
 
 ---
@@ -52,8 +52,8 @@ tCORE2 price ≈ $0.21
 [https://scan.test2.btcs.network/tx/0x1bcda59f4bbe47a04db206f15f8c5d52579db56ae3bdabd0aabb197e7f7bd19e](https://scan.test2.btcs.network/tx/0x1bcda59f4bbe47a04db206f15f8c5d52579db56ae3bdabd0aabb197e7f7bd19e)
 
 
-<img src="images/m4_4.png" alt="m4_4" width="500">
-<img src="images/m4_5.png" alt="m4_5" width="500">
+<img src="images/m4_4.png" alt="m4_4" width="1000">
+<img src="images/m4_5.png" alt="m4_5" width="1000">
 
 
 ---
@@ -66,7 +66,7 @@ tCORE2 price ≈ $0.21
 [https://scan.test2.btcs.network/tx/0x2c479737b53dcd49ce34b705c54bc79b11f168c1dd59b9ce1c56111dd43090ad](https://scan.test2.btcs.network/tx/0x2c479737b53dcd49ce34b705c54bc79b11f168c1dd59b9ce1c56111dd43090ad)
 
 
-<img src="images/m4_6.png" alt="m4_6" width="500">
-<img src="images/m4_7.png" alt="m4_7" width="500">
-<img src="images/m4_8.png" alt="m4_8" width="500">
+<img src="images/m4_6.png" alt="m4_6" width="1000"> <img src="images/m4_7.png" alt="m4_7" width="1000"> <img src="images/m4_8.png" alt="m4_8" width="1000">
+
+
 

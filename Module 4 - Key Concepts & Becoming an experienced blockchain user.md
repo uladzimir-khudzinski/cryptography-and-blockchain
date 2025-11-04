@@ -22,7 +22,6 @@
 **Incoming Transaction:**  
 [https://scan.test2.btcs.network/tx/0xb75336a7fe745eb872b15e7125a499c416f553a513c5625fa54cfc512d93aa5b](https://scan.test2.btcs.network/tx/0xb75336a7fe745eb872b15e7125a499c416f553a513c5625fa54cfc512d93aa5b)
 
-<img src="images/m4_3.png" alt="m4_3" width="1000">
 
 
 ---
@@ -30,6 +29,9 @@
 ## Transactions
 **Transaction 1:**  
 [https://scan.test2.btcs.network/tx/0xb75336a7fe745eb872b15e7125a499c416f553a513c5625fa54cfc512d93aa5b](https://scan.test2.btcs.network/tx/0xb75336a7fe745eb872b15e7125a499c416f553a513c5625fa54cfc512d93aa5b)
+
+<img src="images/m4_3.png" alt="m4_3" width="1000">
+
 
 **Transaction 2:**  
 [https://scan.test2.btcs.network/tx/0x09ce5bf48023c2cc0a5589373ae23f6c2466db5533147fb3a3e5d2794a36304d](https://scan.test2.btcs.network/tx/0x09ce5bf48023c2cc0a5589373ae23f6c2466db5533147fb3a3e5d2794a36304d)
@@ -42,10 +44,16 @@
 Gas price ≈ 60 Gwei  
 CORE price ≈ $0.21
 
+<img src="images/m4_10.png" alt="m4_3" width="500">
+
+
 **Testnet Gas Tracker:**  
 [https://scan.test2.btcs.network](https://scan.test2.btcs.network/)  
 Gas price ≈ 100 Gwei  
 tCORE2 price ≈ $0.21
+
+<img src="images/m4_9.png" alt="m4_3" width="<img src="images/m4_10.png" alt="m4_3" width="500">
+">
 
 
 **Failed Transaction (0 Gas):**  
